@@ -25,4 +25,4 @@ MIT.
 
 ## Others
 
-The code still dirty and worst, I have no time to refactor it but I'll find some free to do it ASAP.
+The code still dirty and worst, I'll find some free to refactor it ASAP.
