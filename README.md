@@ -9,7 +9,7 @@ CoreBluetooth.framework.
 
 ## How To Get Started
 
-KRBLEKit is a BLE usage sample that it used CoreBluetooth to implement Notify, Read, Write and Exchange Tranfer Data. Just running it to fun.
+KRBLEKit is a BLE sample it uses CoreBluetooth to implement Notify, Read, Write characteristics and simulate the SPP transfer images to each other. Just running it for fun.
 
 ``` objective-c
 
